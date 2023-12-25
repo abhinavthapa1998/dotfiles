@@ -28,15 +28,17 @@ M.mason = {
     -- lua stuff
     "lua-language-server",
     "stylua",
-    "gopls",
     -- web dev stuff
+    "eslint-lsp",
     "css-lsp",
     "html-lsp",
+    "tailwindcss-language-server",
     "typescript-language-server",
     "astro-language-server",
     "deno",
-    "prettier",
-
+    "prettierd",
+    -- go stuff
+    "gopls",
     -- c/cpp stuff
     "clangd",
     "clang-format",
