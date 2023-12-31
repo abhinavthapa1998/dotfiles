@@ -7,6 +7,7 @@ M.treesitter = {
     "html",
     "css",
     "go",
+    "templ",
     "javascript",
     "typescript",
     "astro",
@@ -39,6 +40,11 @@ M.mason = {
     "prettierd",
     -- go stuff
     "gopls",
+    "gofumpt",
+    "golines",
+    "goimports-reviser",
+    "gomodifytags",
+    "gotests",
     -- c/cpp stuff
     "clangd",
     "clang-format",
